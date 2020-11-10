@@ -1,1 +1,1 @@
-[Activity/Fragments](/Android%20Interview/Activity-Fragment.md)
+[Activity/Fragments](https://malhotramanik.github.io/blogs/Android%20Interview/Activity-Fragment)
