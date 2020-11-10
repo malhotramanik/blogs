@@ -1,8 +1,8 @@
 1. Explain Activity Life Cycle and Most Importantly What will be the Life cycle (In Order) If Activity B is Launched from Activity A.
-https://stackoverflow.com/a/43346281/13733003
+https://www.stackoverflow.com/a/43346281/13733003
 
 2. Explain Fragment Life Cycle, How the Activity Life cycle and Fragment Life Cycle gets called In Order, RetainInstanceState in Fragment
-(https://medium.com/androiddevelopers/the-android-lifecycle-cheat-sheet-part-iii-fragments-afc87d4f37fd)
+https://medium.com/androiddevelopers/the-android-lifecycle-cheat-sheet-part-iii-fragments-afc87d4f37fd
 
 
 3. Fragment Add vs Fragment Replace, Explain with using Backstack and Without using backstack
