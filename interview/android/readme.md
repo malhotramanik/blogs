@@ -1,1 +1,1 @@
-[Acitivity/Fragment](https://malhotramanik.github.io/blogs/interview/android/acitivity-fragment)
+[Acitivity/Fragment](https://malhotramanik.github.io/blogs/interview/android/activity-fragment)
