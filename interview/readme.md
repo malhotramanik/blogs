@@ -2,7 +2,7 @@
 
 ### OOPS
 
-### Data Structure
+### [Data Structure](https://malhotramanik.github.io/blogs/interview/dsa)
 
 ### Architecture
 
