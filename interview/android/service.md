@@ -3,8 +3,7 @@
 1. On Which Thread Services Work? What are the Changes and Limitations introduced in the latest version of android regarding Services
 
 1. Services vs Intent Services — (Other than the Thread on which these both works 😜)
-
-[https://blog.mindorks.com/service-vs-intentservice-in-android](https://blog.mindorks.com/service-vs-intentservice-in-android)
+- [https://blog.mindorks.com/service-vs-intentservice-in-android](https://blog.mindorks.com/service-vs-intentservice-in-android)
 
 1. Foreground Services and Background Services, Work Manager Role
 
